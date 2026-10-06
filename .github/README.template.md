@@ -1,12 +1,12 @@
-# Pere Gomila
+# {{name}}
 
 ```text
            .:++######++:.
        .:+#@@@@@@@@@@@@@@#+:.          pegoku@github
      .+@@@@@@@@@@@@@@@@@@@@@@+.        -------------
-   .#@@@@#@@@@@@@@@@@@@@@@#@@@@#.      Name       Pere Gomila
-  :@@@@@. .:+##++++++##+:. :@@@@@:     Based in   Eindhoven, Netherlands
- :@@@@@@                   .@@@@@@:    Company    @InnoFluidics
+   .#@@@@#@@@@@@@@@@@@@@@@#@@@@#.      {{name_line}}
+  :@@@@@. .:+##++++++##+:. :@@@@@:     {{location_line}}
+ :@@@@@@                   .@@@@@@:    {{company_line}}
 .@@@@@@#.                  .#@@@@@@.
 #@@@@@#                     .@@@@@@#   Code       C / C++ / Python / Kotlin
 @@@@@@+                      +@@@@@@   Tools      Linux / Git / KiCad / FreeCAD
